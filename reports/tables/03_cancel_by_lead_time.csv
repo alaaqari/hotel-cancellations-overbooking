@@ -1,0 +1,13 @@
+hotel,lead_bucket,sort_key,bookings,cancellation_rate,late_attrition_rate
+City Hotel,0-7 days,0,10703,0.122,0.122
+City Hotel,8-30 days,8,12541,0.309,0.108
+City Hotel,31-90 days,31,20775,0.399,0.052
+City Hotel,91-180 days,91,18206,0.48,0.04
+City Hotel,181-365 days,181,14234,0.627,0.02
+City Hotel,365+ days,366,2703,0.711,0.016
+Resort Hotel,0-7 days,0,8932,0.065,0.065
+Resort Hotel,8-30 days,8,6404,0.219,0.062
+Resort Hotel,31-90 days,31,8753,0.325,0.03
+Resort Hotel,91-180 days,91,8214,0.374,0.023
+Resort Hotel,181-365 days,181,7299,0.413,0.018
+Resort Hotel,365+ days,366,444,0.466,0.002

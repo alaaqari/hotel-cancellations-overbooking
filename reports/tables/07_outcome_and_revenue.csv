@@ -1,0 +1,11 @@
+hotel,outcome,bookings,share_of_bookings,booked_revenue_m_eur,share_of_booked_revenue
+City Hotel,Stayed,46084,0.582,14.39,0.569
+City Hotel,Cancelled 31+ days before,21582,0.273,7.01,0.277
+City Hotel,Cancelled 8-30 days before,6727,0.085,2.35,0.093
+City Hotel,Cancelled 0-7 days before,3854,0.049,1.17,0.046
+City Hotel,No-show,915,0.012,0.36,0.014
+Resort Hotel,Stayed,28926,0.722,11.6,0.665
+Resort Hotel,Cancelled 31+ days before,6927,0.173,4.11,0.236
+Resort Hotel,Cancelled 8-30 days before,2639,0.066,1.28,0.073
+Resort Hotel,Cancelled 0-7 days before,1263,0.032,0.37,0.021
+Resort Hotel,No-show,291,0.007,0.09,0.005

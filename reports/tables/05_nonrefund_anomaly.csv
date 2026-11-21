@@ -1,0 +1,3 @@
+deposit_type,bookings,cancellation_rate,share_groups_or_tour_operator,share_from_portugal,share_city_hotel,median_lead_time,avg_special_requests,median_days_cancelled_before_arrival
+No Deposit,104460,0.284,0.284,0.328,0.634,57.0,0.65,35.0
+Non Refund,14586,0.994,0.972,0.972,0.882,183.0,0.0,102.0

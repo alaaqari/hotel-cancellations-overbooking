@@ -1,0 +1,9 @@
+check_name,n
+Raw rows,119390
+Negative ADR,1
+"ADR above 1,000",1
+Zero guests,180
+Missing children (set to 0),4
+Zero-night stays (kept),715
+Exact duplicate rows (kept),31994
+Rows after cleaning,119208

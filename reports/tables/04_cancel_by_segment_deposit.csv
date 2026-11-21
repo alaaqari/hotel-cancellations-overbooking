@@ -1,0 +1,10 @@
+dimension,value,bookings,cancellation_rate,late_attrition_rate,median_lead_time
+deposit_type,Non Refund,14586,0.994,0.022,183.0
+deposit_type,No Deposit,104460,0.284,0.057,57.0
+deposit_type,Refundable,162,0.222,0.179,169.0
+market_segment,Groups,19790,0.611,0.046,162.0
+market_segment,Online TA,56408,0.368,0.053,58.0
+market_segment,Offline TA/TO,24181,0.343,0.04,109.0
+market_segment,Corporate,5282,0.188,0.089,7.0
+market_segment,Direct,12582,0.154,0.068,16.0
+market_segment,Complementary,728,0.122,0.1,3.0

@@ -1,0 +1,15 @@
+{
+  "nights_used": 680,
+  "mean_show_rate_t7": 0.9248,
+  "best_overbook_pct": 0.02,
+  "uplift_per_night_per_100_rooms": 76.3,
+  "uplift_per_year_per_100_rooms": 27851.0,
+  "p_any_walk_at_best": 0.1827,
+  "avg_walked_at_best": 0.309,
+  "avg_empty_no_overbooking": 7.57,
+  "avg_empty_at_best": 6.03,
+  "naive_level": 0.72,
+  "naive_uplift_per_night_per_100_rooms": -15068.0,
+  "naive_avg_walked": 59.2,
+  "naive_p_any_walk": 0.991
+}
